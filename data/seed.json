@@ -1,0 +1,105 @@
+{
+  "settings": {
+    "name": "KING KONG BASKETBALL",
+    "tagline": "MÁS QUE UN EQUIPO. UNA FAMILIA QUE JUEGA PARA GANAR.",
+    "description": "King Kong Basketball representa pasión, disciplina, fuerza y compañerismo dentro y fuera de la cancha. Cada partido es una oportunidad para demostrar nuestro trabajo y nuestra identidad.",
+    "email": "hola@kingkongbasketball.mx",
+    "instagram": "",
+    "facebook": "",
+    "tiktok": "",
+    "youtube": "",
+    "whatsapp": "",
+    "mascotImage": ""
+  },
+  "players": [
+    {
+      "id": "demo-player-1",
+      "demo": true,
+      "number": "23",
+      "firstName": "Jugador",
+      "lastName": "Demo",
+      "position": "BASE",
+      "height": "1.82 m",
+      "age": "22",
+      "bio": "Perfil de demostración. Sustituye esta información desde administración.",
+      "points": 12.4,
+      "rebounds": 4.1,
+      "assists": 5.3,
+      "steals": 1.4,
+      "blocks": 0.3,
+      "threes": 2.1,
+      "image": ""
+    }
+  ],
+  "games": [
+    {
+      "id": "demo-game-1",
+      "demo": true,
+      "opponent": "Equipo Rival",
+      "date": "2026-10-18",
+      "time": "19:00",
+      "venue": "Por confirmar",
+      "season": "2026",
+      "competition": "Partido de demostración",
+      "status": "PRÓXIMO",
+      "homeScore": "",
+      "awayScore": ""
+    }
+  ],
+  "news": [
+    {
+      "id": "demo-news-1",
+      "demo": true,
+      "title": "Una nueva temporada comienza",
+      "date": "2026-09-01",
+      "category": "EQUIPO",
+      "excerpt": "Noticia de ejemplo. Pronto compartiremos las novedades de King Kong Basketball.",
+      "body": "Esta noticia es contenido de demostración.",
+      "image": ""
+    }
+  ],
+  "staff": [],
+  "gallery": [],
+  "videos": [],
+  "sponsors": [],
+  "timeline": [
+    {
+      "id": "tl-1",
+      "year": "2024",
+      "title": "Fundación",
+      "description": "Completa aquí la historia oficial del equipo."
+    },
+    {
+      "id": "tl-2",
+      "year": "2025",
+      "title": "Crecimiento",
+      "description": "Añade los hitos reales de esta temporada."
+    },
+    {
+      "id": "tl-3",
+      "year": "2026",
+      "title": "Nueva etapa",
+      "description": "Un nuevo capítulo para King Kong Basketball."
+    }
+  ],
+  "standings": [],
+  "awards": [],
+  "messages": [],
+  "activities": [],
+  "stats": {
+    "games": 12,
+    "wins": 8,
+    "losses": 4,
+    "ppg": 72.4
+  },
+  "seasons": [
+    "2026"
+  ],
+  "competitions": [
+    "Liga",
+    "Torneo",
+    "Copa",
+    "Amistoso",
+    "Playoffs"
+  ]
+}
